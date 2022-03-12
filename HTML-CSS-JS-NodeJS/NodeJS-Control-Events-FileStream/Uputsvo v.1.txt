@@ -1,0 +1,2 @@
+Program nije sinhronizovan ulazno-izlazno.
+Poziva se samo: X\ > node glavna.js

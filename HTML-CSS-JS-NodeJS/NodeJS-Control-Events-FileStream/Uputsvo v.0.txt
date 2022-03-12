@@ -1,0 +1,25 @@
+1. Upalite PowerShell
+2. Nadjite lokaciju ovog foldera
+3. Pokrenite ovaj program na sledeći način:
+
+	node glavna.js N a1 a2 a3 a4 ... an
+
+N je broj elementata niza.
+a1 a2 a3 a4 ... an su članovi tog niza.
+
+Program vraća izmešan niz.
+
+Primer:
+
+Ulaz :
+
+node glavna.js 6 1 2 1 5 8 6
+
+Izlaz:
+
+1
+5
+8
+1
+6
+2
