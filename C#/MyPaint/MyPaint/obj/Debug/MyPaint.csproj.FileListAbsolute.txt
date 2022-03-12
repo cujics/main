@@ -1,0 +1,9 @@
+C:\Users\Siki\source\repos\MyPaint\MyPaint\bin\Debug\MyPaint.exe.config
+C:\Users\Siki\source\repos\MyPaint\MyPaint\bin\Debug\MyPaint.exe
+C:\Users\Siki\source\repos\MyPaint\MyPaint\bin\Debug\MyPaint.pdb
+C:\Users\Siki\source\repos\MyPaint\MyPaint\obj\Debug\MyPaint.csprojAssemblyReference.cache
+C:\Users\Siki\source\repos\MyPaint\MyPaint\obj\Debug\MyPaint.Form1.resources
+C:\Users\Siki\source\repos\MyPaint\MyPaint\obj\Debug\MyPaint.Properties.Resources.resources
+C:\Users\Siki\source\repos\MyPaint\MyPaint\obj\Debug\MyPaint.csproj.GenerateResource.cache
+C:\Users\Siki\source\repos\MyPaint\MyPaint\obj\Debug\MyPaint.exe
+C:\Users\Siki\source\repos\MyPaint\MyPaint\obj\Debug\MyPaint.pdb

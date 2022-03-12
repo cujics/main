@@ -1,0 +1,25 @@
+C:\Users\Siki\source\repos\RekognajzerBrojeva ANN\RekognajzerBrojeva ANN\bin\Debug\RekognajzerBrojeva ANN.exe.config
+C:\Users\Siki\source\repos\RekognajzerBrojeva ANN\RekognajzerBrojeva ANN\bin\Debug\RekognajzerBrojeva ANN.exe
+C:\Users\Siki\source\repos\RekognajzerBrojeva ANN\RekognajzerBrojeva ANN\bin\Debug\RekognajzerBrojeva ANN.pdb
+C:\Users\Siki\source\repos\RekognajzerBrojeva ANN\RekognajzerBrojeva ANN\obj\Debug\RekognajzerBrojeva ANN.csprojAssemblyReference.cache
+C:\Users\Siki\source\repos\RekognajzerBrojeva ANN\RekognajzerBrojeva ANN\obj\Debug\RekognajzerBrojeva_ANN.Form1.resources
+C:\Users\Siki\source\repos\RekognajzerBrojeva ANN\RekognajzerBrojeva ANN\obj\Debug\RekognajzerBrojeva_ANN.Properties.Resources.resources
+C:\Users\Siki\source\repos\RekognajzerBrojeva ANN\RekognajzerBrojeva ANN\obj\Debug\RekognajzerBrojeva ANN.csproj.GenerateResource.cache
+C:\Users\Siki\source\repos\RekognajzerBrojeva ANN\RekognajzerBrojeva ANN\obj\Debug\RekognajzerBrojeva ANN.exe
+C:\Users\Siki\source\repos\RekognajzerBrojeva ANN\RekognajzerBrojeva ANN\obj\Debug\RekognajzerBrojeva ANN.pdb
+C:\Users\Siki\source\repos\RekognajzerBrojeva ANN\RekognajzerBrojeva ANN\obj\Debug\RekognajzerBrojeva_ANN.Form2.resources
+C:\Users\Siki\source\repos\RekognajzerBrojeva ANN\RekognajzerBrojeva ANN\obj\Debug\RekognajzerBrojeva_ANN.Menadzment.resources
+C:\Users\Siki\source\repos\RekognajzerBrojeva ANN\RekognajzerBrojeva ANN\obj\Debug\RekognajzerBrojeva_ANN.TESTER.resources
+C:\Users\TS\Desktop\Repos\C#\NumberRecognizer[Prototype ANN]\RekognajzerBrojeva ANN\bin\Debug\RekognajzerBrojeva ANN.exe.config
+C:\Users\TS\Desktop\Repos\C#\NumberRecognizer[Prototype ANN]\RekognajzerBrojeva ANN\bin\Debug\RekognajzerBrojeva ANN.exe
+C:\Users\TS\Desktop\Repos\C#\NumberRecognizer[Prototype ANN]\RekognajzerBrojeva ANN\bin\Debug\RekognajzerBrojeva ANN.pdb
+C:\Users\TS\Desktop\Repos\C#\NumberRecognizer[Prototype ANN]\RekognajzerBrojeva ANN\obj\Debug\RekognajzerBrojeva ANN.csproj.AssemblyReference.cache
+C:\Users\TS\Desktop\Repos\C#\NumberRecognizer[Prototype ANN]\RekognajzerBrojeva ANN\obj\Debug\RekognajzerBrojeva_ANN.Form1.resources
+C:\Users\TS\Desktop\Repos\C#\NumberRecognizer[Prototype ANN]\RekognajzerBrojeva ANN\obj\Debug\RekognajzerBrojeva_ANN.Form2.resources
+C:\Users\TS\Desktop\Repos\C#\NumberRecognizer[Prototype ANN]\RekognajzerBrojeva ANN\obj\Debug\RekognajzerBrojeva_ANN.Menadzment.resources
+C:\Users\TS\Desktop\Repos\C#\NumberRecognizer[Prototype ANN]\RekognajzerBrojeva ANN\obj\Debug\RekognajzerBrojeva_ANN.Properties.Resources.resources
+C:\Users\TS\Desktop\Repos\C#\NumberRecognizer[Prototype ANN]\RekognajzerBrojeva ANN\obj\Debug\RekognajzerBrojeva_ANN.TESTER.resources
+C:\Users\TS\Desktop\Repos\C#\NumberRecognizer[Prototype ANN]\RekognajzerBrojeva ANN\obj\Debug\RekognajzerBrojeva ANN.csproj.GenerateResource.cache
+C:\Users\TS\Desktop\Repos\C#\NumberRecognizer[Prototype ANN]\RekognajzerBrojeva ANN\obj\Debug\RekognajzerBrojeva ANN.csproj.CoreCompileInputs.cache
+C:\Users\TS\Desktop\Repos\C#\NumberRecognizer[Prototype ANN]\RekognajzerBrojeva ANN\obj\Debug\RekognajzerBrojeva ANN.exe
+C:\Users\TS\Desktop\Repos\C#\NumberRecognizer[Prototype ANN]\RekognajzerBrojeva ANN\obj\Debug\RekognajzerBrojeva ANN.pdb

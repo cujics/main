@@ -1,0 +1,9 @@
+C:\Users\Siki\source\repos\sinisakalendar\sinisakalendar\bin\Debug\sinisakalendar.exe.config
+C:\Users\Siki\source\repos\sinisakalendar\sinisakalendar\bin\Debug\sinisakalendar.exe
+C:\Users\Siki\source\repos\sinisakalendar\sinisakalendar\bin\Debug\sinisakalendar.pdb
+C:\Users\Siki\source\repos\sinisakalendar\sinisakalendar\obj\Debug\sinisakalendar.csprojAssemblyReference.cache
+C:\Users\Siki\source\repos\sinisakalendar\sinisakalendar\obj\Debug\sinisakalendar.Form1.resources
+C:\Users\Siki\source\repos\sinisakalendar\sinisakalendar\obj\Debug\sinisakalendar.Properties.Resources.resources
+C:\Users\Siki\source\repos\sinisakalendar\sinisakalendar\obj\Debug\sinisakalendar.csproj.GenerateResource.cache
+C:\Users\Siki\source\repos\sinisakalendar\sinisakalendar\obj\Debug\sinisakalendar.exe
+C:\Users\Siki\source\repos\sinisakalendar\sinisakalendar\obj\Debug\sinisakalendar.pdb
