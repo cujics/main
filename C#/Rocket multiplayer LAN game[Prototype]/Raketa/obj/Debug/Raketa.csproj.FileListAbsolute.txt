@@ -1,0 +1,10 @@
+C:\Users\TS\Documents\SharpDevelop Projects\Raketa\Raketa\bin\Debug\Raketa.exe.config
+C:\Users\TS\Documents\SharpDevelop Projects\Raketa\Raketa\bin\Debug\Raketa.exe
+C:\Users\TS\Documents\SharpDevelop Projects\Raketa\Raketa\bin\Debug\Raketa.pdb
+C:\Users\TS\Documents\SharpDevelop Projects\Raketa\Raketa\obj\Debug\Raketa.csprojResolveAssemblyReference.cache
+C:\Users\TS\Documents\SharpDevelop Projects\Raketa\Raketa\obj\Debug\Raketa.csproj.GenerateResource.Cache
+C:\Users\TS\Documents\SharpDevelop Projects\Raketa\Raketa\obj\Debug\Raketa.exe
+C:\Users\TS\Documents\SharpDevelop Projects\Raketa\Raketa\obj\Debug\Raketa.pdb
+C:\Users\TS\Documents\SharpDevelop Projects\Raketa\Raketa\obj\Debug\Raketa.Uvod.resources
+C:\Users\TS\Documents\SharpDevelop Projects\Raketa\Raketa\obj\Debug\Raketa.multi.resources
+C:\Users\TS\Documents\SharpDevelop Projects\Raketa\Raketa\obj\Debug\Raketa.MainForm.resources
