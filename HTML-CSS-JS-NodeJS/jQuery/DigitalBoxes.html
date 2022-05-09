@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script
+    src="https://code.jquery.com/jquery-3.6.0.min.js"
+    integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
+    crossorigin="anonymous"></script>
+    <title>Document</title>
+    <style>
+        #korpa{
+            display: flex;
+            background-color: white;
+            flex-wrap: wrap;
+            justify-content: center;
+        }
+    </style>
+</head>
+<body>
+    <div id="korpa"></div>
+    <div id="korpa2">Ovo je div</div>
+    <script>
+        $(function(){
+            let i=1;
+            for(let j=0;j<98;j++){
+                $("#korpa2").css("color","#c6cfc8").html(i);
+                let p=$("<div></div>");
+                p.css({"width":"100px","background-color":"#c6cfc8","height":"100px","margin":"2px"});
+                p.attr("id",i++).attr("class","aktivno");
+                //p.html("TEKST");
+                $("#korpa").append(p);
+            }
+            $(".aktivno").mouseenter(function(){
+                $(this).css({"background-color":"red"});
+            })
+            $(".aktivno").mouseleave(function(){
+                $(this).css({"background-color":"#c6cfc8"});
+            })
+            $(".aktivno").click(function(){
+                $(".aktivno").css({"background-color":"green"});
+                let c=($(this).attr("id"));
+                console.log(c);
+                let x=parseInt(c)+13;
+                let y=parseInt(c)+15;
+                kreni(x,y);
+            })
+            function kreni(a,b){
+                if(a<100 && b<100){
+                    $("#"+a).css({"background-color":"blue"});
+                    $("#"+b).css({"background-color":"blue"});
+                    console.log($("#"+a));
+                    let x1=a+13;
+                    let y1=a+15;
+                    kreni(x1,y1);
+                    let x2=b+13;
+                    let y2=b+15;
+                    kreni(x2,y2);
+                
+            }
+            console.log("Uso"+b);
+        }
+        })
+        
+    </script>
+    
+</body>
+</html>
