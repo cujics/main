@@ -1,0 +1,7 @@
+C:\Users\TS\Documents\SharpDevelop Projects\RandomRangeResearch\RandomRangeResearch\bin\Debug\RandomRangeResearch.exe
+C:\Users\TS\Documents\SharpDevelop Projects\RandomRangeResearch\RandomRangeResearch\bin\Debug\RandomRangeResearch.pdb
+C:\Users\TS\Documents\SharpDevelop Projects\RandomRangeResearch\RandomRangeResearch\obj\Debug\RandomRangeResearch.csprojResolveAssemblyReference.cache
+C:\Users\TS\Documents\SharpDevelop Projects\RandomRangeResearch\RandomRangeResearch\obj\Debug\RandomRangeResearch.MainForm.resources
+C:\Users\TS\Documents\SharpDevelop Projects\RandomRangeResearch\RandomRangeResearch\obj\Debug\RandomRangeResearch.csproj.GenerateResource.Cache
+C:\Users\TS\Documents\SharpDevelop Projects\RandomRangeResearch\RandomRangeResearch\obj\Debug\RandomRangeResearch.exe
+C:\Users\TS\Documents\SharpDevelop Projects\RandomRangeResearch\RandomRangeResearch\obj\Debug\RandomRangeResearch.pdb
